@@ -1,10 +1,9 @@
 # KanbanBoard_TaskManagement
 Objective:
-Develop a Kanban board inspired by platforms like Trello for task management. The application
-should seamlessly allow users to manage tasks among different stages of completion.
 
-Front-end Requirements:
-1. Homepage: Display all tasks, segregated by their status groups: To Do, Doing, Done.
+
+![screenshot_of_HomePage](https://github.com/A81126/KanbanBoard_TaskManagement/assets/117425136/9f58a7bc-4fec-4e2a-b841-163f83235b79)
+ir status groups: To Do, Doing, Done.
 2. Task Card: Showcase the task title and description.
 3. Add Task: Integrate a form to create a new task, prompting users for the title and
 description of the task.
