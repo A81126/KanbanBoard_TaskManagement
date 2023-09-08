@@ -14,6 +14,8 @@ description of the task.
 Doing, and Done categories.
 7. Responsive Design: Ensure the application is fully functional and visually coherent on
 mobile devices.
+
+
 Back-end Requirements:
 1. Create an API with endpoints to support CRUD operations for tasks.
 2. Tasks should be stored in a database.
